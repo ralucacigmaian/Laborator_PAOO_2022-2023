@@ -1,0 +1,3 @@
+/home/ralucacigmaian/Laborator_PAOO_2022-2023/Tema 2/build/CMakeFiles/Tema2.dir
+/home/ralucacigmaian/Laborator_PAOO_2022-2023/Tema 2/build/CMakeFiles/edit_cache.dir
+/home/ralucacigmaian/Laborator_PAOO_2022-2023/Tema 2/build/CMakeFiles/rebuild_cache.dir
